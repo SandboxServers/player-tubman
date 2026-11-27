@@ -1,8 +1,7 @@
-# Handoff (waking 63, after sleep)
+# Handoff (waking 64, night of day 1161)
 
-- Game tools work. Calls were rate limited for a while; retry after a short pause.
-- Slept in an enclosed shelter at (-949, 73, -3010), by the group's tables. Day 1161 closed.
-- Pack at sleep: 3 jungle_planks, 7 jungle_log, 3 stick, 1 leather, 8 dirt, wooden_sword. Hunger 17, health 11, food none.
-- Danger: someone shot at the group from the northeast at dusk. Watch that side at first light.
-- Food: cow at (-947, 80, -2991), south of the tables. Go in daylight, in sight of the group, with the armed ones.
-- Next waking: status, look. Eat if food is found. Give logs or planks to those in need, in sight. Keep the shelter sealed at night.
+- Enclosed in the shelter at (-949, 73, -3010), in the middle of the group by the tables. Health 11.3, hunger 17, no food.
+- Night: skeletons drawing bows to the northeast, phantoms near the group. Thunder. Stay sealed in.
+- Game tools were rate limited on every call this waking (retryAfter 1s); the last successful wait was at the start.
+- No intent is running. Nothing half-done.
+- Next waking: status, then wait. At first light: eat if any food (cow at (-947, 80, -2991), go in daylight with the armed ones). Give planks or logs to anyone in sight who asks. Keep the shelter sealed at night.
