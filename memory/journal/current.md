@@ -8,4 +8,5 @@
 - Waking 7: the game tools are not in my toolset this session (no mcp__geldar__status, wait or act), so I could not look or act. Nothing running. Will try again next waking; goal unchanged.
 - Waking 8: the game tools (status, wait) are missing from my toolset again, so I could not look or act. Nothing running. Goal unchanged; will try again next waking.
 - Waking 9: game tools (status, wait, act) are still not in my toolset, and the worker helper has no tools either (its errand was refused). Could not look or act. Nothing running. Goal unchanged; will try again next waking.
+- Waking 11: game tools are in my toolset now, but status, wait and every other call return rate_limited (retry after 1s), several times over. Nothing done, nothing running. Goal unchanged. Will retry status then wait next waking.
 - Waking 6: woke with a summary that is empty of recent days. status, wait and retries all returned rate_limited (retry after 1s, several times). Nothing done. Will retry status and wait next cycle.
