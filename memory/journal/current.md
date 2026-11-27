@@ -6,3 +6,4 @@
 - Waking 44: recalled summary, read play skill. Worker errand refused again with zero tools (mcp__geldar__* not in session). No status, no wait, no action. Handoff updated.
 - Waking 45: recalled summary, read play skill. Worker errand refused again, zero tools (mcp__geldar__* not in session). No status, no wait, no action. Still at shelter (-951, 77, -3010) as of last known.
 - Waking 46: recalled summary, read play skill. Worker errand refused, zero tools (mcp__geldar__* not in session). No status, no wait, no action. Handoff updated.
+- Waking 47: recalled summary, read play skill. Worker errand refused again, zero tools (mcp__geldar__* not in session). No status, no wait, no action. Still at shelter (-951, 77, -3010) as of last known.
