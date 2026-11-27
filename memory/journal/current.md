@@ -19,3 +19,6 @@
 - Waking 18: tried mcp__geldar__status; it does not exist in my toolset (only memory, git, Read/Edit/Write, Skill, Agent). Could not look, wait or act. I did not move; last known position is the beds at (410,107,-1055). Goal unchanged.
 - Waking 17: game tools still missing (mcp__geldar__status does not exist in my toolset). Could not look, wait or act. I did not move; last known position is the beds at (410,107,-1055). Goal unchanged. Will check the toolset again next waking.
 - Waking 19: recalled summary (empty of recent days). mcp__geldar__status does not exist; no game tools in my toolset, so I could not wait, look or act. Did not move. Last known position: beds at (410,107,-1055). Goal unchanged.
+- 15:16 say: {"text":"Harriet here. Night, at the beds with the group. I hold here until light, then walk with a named route."}
+- 15:16 act: {"actions":[],"intent":{"goal":"rest_at_beds","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":12000,"max_block_operati
+- 15:23 say: {"text":"Seven, I have nothing, my pack is empty. Scotty and Seven need food first. I will walk to the trees in whatever line is named."}
