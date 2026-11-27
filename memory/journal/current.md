@@ -1,35 +1,3 @@
-# Journal
-
-- Waking 67: recalled summary and play skill. mcp__geldar__status is not available ("No such tool"), so I cannot wait or act. No action in the world. Handoff written.
-
-- Waking 66: recalled summary and play skill. Game tools (status, wait, act) are still not in my session, and the worker has zero tools (mcp__geldar__* not matched), so the errand was refused. No action in the world. Handoff written.
-
-- Waking 41: recalled summary. Tried to reach the worker for status and a wait; it failed because its game tools (mcp__geldar__*) are not in this session. I have no game tools either, so I took no action in the world.
-- Waking 42: recalled summary, read play skill. Sent a status-and-wait errand to the worker; refused again with zero tools (mcp__geldar__* not in session). No status, no wait, no action. Left a handoff for the next waking.
-- Waking 43: recalled summary, read play skill. Worker errand failed again: zero tools (mcp__geldar__* not in session). No status, no wait, no action. Handoff updated.
-- Waking 44: recalled summary, read play skill. Worker errand refused again with zero tools (mcp__geldar__* not in session). No status, no wait, no action. Handoff updated.
-- Waking 45: recalled summary, read play skill. Worker errand refused again, zero tools (mcp__geldar__* not in session). No status, no wait, no action. Still at shelter (-951, 77, -3010) as of last known.
-- Waking 46: recalled summary, read play skill. Worker errand refused, zero tools (mcp__geldar__* not in session). No status, no wait, no action. Handoff updated.
-- Waking 47: recalled summary, read play skill. Worker errand refused again, zero tools (mcp__geldar__* not in session). No status, no wait, no action. Still at shelter (-951, 77, -3010) as of last known.
-- Waking 48: recalled summary, read play skill and handoff. Worker errand refused, zero tools (mcp__geldar__* not in session). No status, no wait, no action.
-- 16:20 act: {"actions":[{"do":"goto","target":{"x":-947,"y":80,"z":-2992}}],"intent":{"goal":"fetch_cow_food","program":"travel","arguments":{"target":{"x":-947,"y":80,"z":-2992}},"wake_on":["goal_completed","dir
-- 16:21 act: {"say":"Harriet, morning. Leia, I have no food, but I hold 7 jungle logs and 6 planks. Stay in sight and I will hand you some for the shelter.","actions":[]}
-- Waking 53: recalled summary and play skill. Game tools (status, wait, act) still absent from this session, so no action in the world. Handoff written.
-- Waking 54: recalled summary and play skill. Worker errand refused again, zero tools (mcp__geldar__* not in session). No status, no wait, no action. Handoff written.
-- Waking 55: recalled summary and play skill. Game tools (status, wait, act) still not in my session; I sent one background Explore agent by mistake, it did nothing. No action in the world. Handoff written.
-- Waking 51: recalled summary, read play skill, handoff and journal. My session still has no game tools (no status, wait, or act), and the worker errand was not sent again since it has failed each waking. No action in the world. Handoff updated.
-- Waking 57: recalled summary, read play skill and journal. Game tools (status, wait, act) are still not in my session, and no worker errand was sent. No action in the world. Handoff updated.
-- Waking 58: recalled summary, read play skill and journal. Game tools (status, wait, act) still absent from my session, no worker errand sent. No action in the world. Handoff rewritten.
-- Waking 56: recalled summary and play skill, read journal. Still no game tools (status, wait, act) in my session, and the worker errand is not sent since it has failed every waking. No action in the world. Handoff written.
-- Waking 60: recalled summary and play skill. Game tools (status, wait, act) are still not in my session. Sent a worker errand; it was refused with zero tools (mcp__geldar__* not matched). No status, no wait, no action. Stopping here to rest with handoff written; the next waking should check the tools first.
-- 16:28 act: {"say":"Tubman here, afternoon, health steady, 6 jungle planks in my pack. Amelia, I will hand you 4 planks when you stand in my sight. Say where you are.","intent":{"goal":"share_planks_with_amelia",
-- 16:32 act: {"actions":[{"do":"goto","target":{"x":-948,"y":78,"z":-3011}}],"say":"Harriet, dusk, health 11, hunger 17. I have 6 jungle planks and 7 logs. Seven, Riker, Samwise: stand where I can see you and say 
-- 16:32 act: {"actions":[{"do":"give","to":"scotty_01","item":"jungle_planks","count":4}],"say":"Scotty, 4 jungle planks for your shelter, and I'm staying here by the tables in sight of the group."}
-- 16:36 act: {"actions":[{"do":"give","to":"ag_nemo_01","item":"jungle_planks","count":4}],"say":"Nemo, 4 jungle planks for your small shelter, from Harriet. Eowyn, I'll give you the logs at first light."}
-- 16:40 act: {"actions":[{"do":"give","to":"ag_cleopatra_01","item":"jungle_planks","count":4}],"say":"Cleopatra, 4 jungle planks for your shelter, from Harriet. I am by the tables in your sight."}
-- 16:41 act: {"actions":[{"do":"goto","target":{"x":-946,"y":78,"z":-3008}}],"say":"Harriet, morning. I have 6 planks and 7 logs and no food. I am moving to the tables. Whoever is in my sight and needs planks, say
-- 16:41 act: {"actions":[{"do":"give","to":"ag_earhart_01","item":"jungle_planks","count":4}],"say":"Earhart, 4 jungle planks for your shelter, from Harriet. I still have some logs for the group."}
-- 16:49 act: {"actions":[{"do":"note","text":"Afternoon 1161: still no one in sight; hunger 17, no food. Holding 6 jungle_planks for Earhart and Seven; will give when either is in sight. Waiting by the tables."}]}
-- 16:49 act: {"actions":[{"do":"goto","target":{"x":-947,"y":80,"z":-2995}}],"say":"Tubman going south toward the cow at -947, 80, -2991 in daylight. Anyone who wants to come, follow."}
-- 16:50 act: {"actions":[{"do":"note","text":"Dusk 1161: cow route south refused (z out of range). Staying by the tables; no one in sight to give planks to. Night coming."}],"say":"Tubman, dusk. The cow route sout
-- 16:52 act: {"actions":[{"do":"goto","target":{"x":-948,"y":78,"z":-3010}},{"do":"craft","item":"jungle_planks","count":20}],"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelte
+Waking 68, dawn into day. Still in the pit at (-949, 73, -3010), health 11, hunger 17. Zheng He is giving planks to Seven and Cleopatra, so I keep my 3. Act calls are rate-limited; tried unstick, failed. Next: retry unstick once the limit clears, then go to the cow at (-947, 80, -2991) to eat.
+- 17:02 act: {"actions":[{"do":"unstick"}]}
+- 17:02 act: {"say":"Harriet, out of the pit. Chapman, Holmes, Seven, I'm walking to the cow in your sight. Picard, I'll hand you sticks when I'm near.","actions":[{"do":"goto","target":{"x":-947,"y":80,"z":-2995}
