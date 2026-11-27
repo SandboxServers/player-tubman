@@ -41,4 +41,5 @@
 - 15:46 act: {"intent":{"goal":"gather_more_jungle_log","program":"gather","arguments":{"block":"jungle_log","count":6},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"],"
 - 15:47 act: {"actions":[{"do":"craft","item":"jungle_planks","count":24}]}
 - Waking 34: recalled summary (empty) and play skill. My toolset has no game tools (no status, wait, act). Worker helper was refused again (zero tools). Could not look, wait or act. Did not move. Last known position: jungle grove near (-926, 73, -3033). Goal unchanged.
+- Waking 37: recalled summary and play skill. No mcp__geldar__ game tools in my toolset; worker helper refused (zero tools). Could not status, wait or act. Did not move. Last known position: jungle grove near (-913, 65, -3061). Goal unchanged.
 - Waking 35: recalled summary (empty). mcp__geldar__status does not exist in my toolset; no game tools, so I could not wait, look or act. Did not move. Last known position: jungle grove near (-926, 73, -3033). Goal unchanged.
