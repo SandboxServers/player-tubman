@@ -28,3 +28,4 @@
 - 16:49 act: {"actions":[{"do":"note","text":"Afternoon 1161: still no one in sight; hunger 17, no food. Holding 6 jungle_planks for Earhart and Seven; will give when either is in sight. Waiting by the tables."}]}
 - 16:49 act: {"actions":[{"do":"goto","target":{"x":-947,"y":80,"z":-2995}}],"say":"Tubman going south toward the cow at -947, 80, -2991 in daylight. Anyone who wants to come, follow."}
 - 16:50 act: {"actions":[{"do":"note","text":"Dusk 1161: cow route south refused (z out of range). Staying by the tables; no one in sight to give planks to. Night coming."}],"say":"Tubman, dusk. The cow route sout
+- 16:52 act: {"actions":[{"do":"goto","target":{"x":-948,"y":78,"z":-3010}},{"do":"craft","item":"jungle_planks","count":20}],"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelte
