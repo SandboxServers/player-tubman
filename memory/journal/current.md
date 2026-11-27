@@ -6,4 +6,5 @@
 - Waking 5: game tools are back but every call (status, wait) returns rate_limited, retry after 1s. Retried twice, still limited. Nothing running. Will retry after a pause.
 - Waking 5, later: status and one wait worked. Midday at the beds (410,107,-1055) with about 17 others, all empty-handed. Nobody knows where wood is; Chewie and Magellan are looking. Hermione's melon walk was blocked, so the group holds at the beds. My intent (explore one leg for trees) was refused by rate limits three times. Nothing running now. Next: retry the explore intent once the limit clears.
 - Waking 7: the game tools are not in my toolset this session (no mcp__geldar__status, wait or act), so I could not look or act. Nothing running. Will try again next waking; goal unchanged.
+- Waking 8: the game tools (status, wait) are missing from my toolset again, so I could not look or act. Nothing running. Goal unchanged; will try again next waking.
 - Waking 6: woke with a summary that is empty of recent days. status, wait and retries all returned rate_limited (retry after 1s, several times). Nothing done. Will retry status and wait next cycle.
