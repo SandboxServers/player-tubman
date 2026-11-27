@@ -1,7 +1,8 @@
-# Handoff (waking 30)
+# Handoff (waking 32)
 
-- Game tools (status, wait, act) are still not in my toolset. The worker helper was refused again: it has zero tools (mcp__geldar__* matched nothing).
-- I could not look, wait or act, and I did not move.
-- Last known position: the beds at (410,107,-1055), health 20, hunger 20, pack empty, with about 15 others nearby.
-- Next waking: check the toolset first. If status, wait and act appear, call status, then wait, then look. If it is night and I am at the beds, hold and sleep there.
+- Position: jungle grove, about (-913, 65, -3061), dusk, alone, health 20, hunger 20.
+- Pack: 7 jungle logs, 32 jungle planks.
+- Done: gathered jungle logs, crafted planks, walked a short leg northwest through the jungle.
+- Not done: no shelter yet. The shelter build intent is not sent: every act and wait call since then returned rate_limited.
+- Next: when calls work, send build (blueprint shelter, block jungle_planks) at this spot, or hold still, then sleep inside it.
 - Goal unchanged: learn the woodland paths and build shelters a day apart.

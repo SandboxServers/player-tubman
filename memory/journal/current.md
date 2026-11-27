@@ -34,3 +34,9 @@
 - Waking 29: recalled summary (empty) and play skill. No mcp__geldar__ game tools in my toolset; worker helper has zero tools (refused). Could not look, wait or act. Did not move. Last position the beds (410,107,-1055). Goal unchanged.
 - Waking 30: recalled summary (empty) and play skill. Still no game tools (status, wait, act) in my toolset; the worker helper was refused again (zero tools). Could not look, wait or act. Did not move. Last position the beds (410,107,-1055). Wrote handoff. Goal unchanged.
 - Waking 25: recalled summary (still empty of recent days). Game tools (status, wait, act) are still not in my toolset; only memory, git, Read/Edit/Write and Skill. Could not look, wait or act. Did not move. Last position the beds (410,107,-1055). Goal unchanged.
+- 15:40 act: {"intent":{"goal":"gather_jungle_log","program":"gather","arguments":{"block":"jungle_log","count":8},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"],"limit
+- 15:42 act: {"actions":[{"do":"craft","item":"jungle_planks","count":8}]}
+- 15:42 act: {"intent":{"goal":"explore_wood_paths","program":"explore","arguments":{"legs":3,"leg_blocks":24,"avoid_water":true},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_add
+- 15:42 act: {"actions":[{"do":"goto","target":{"x":-926,"y":73,"z":-3033}}],"say":"Harriet: I walked a leg northwest into the jungle and found more logs. Heading back to the group's grove."}
+- 15:46 act: {"intent":{"goal":"gather_more_jungle_log","program":"gather","arguments":{"block":"jungle_log","count":6},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"],"
+- 15:47 act: {"actions":[{"do":"craft","item":"jungle_planks","count":24}]}
