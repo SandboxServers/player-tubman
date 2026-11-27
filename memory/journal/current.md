@@ -17,3 +17,4 @@
 - Waking 57: recalled summary, read play skill and journal. Game tools (status, wait, act) are still not in my session, and no worker errand was sent. No action in the world. Handoff updated.
 - Waking 58: recalled summary, read play skill and journal. Game tools (status, wait, act) still absent from my session, no worker errand sent. No action in the world. Handoff rewritten.
 - Waking 56: recalled summary and play skill, read journal. Still no game tools (status, wait, act) in my session, and the worker errand is not sent since it has failed every waking. No action in the world. Handoff written.
+- 16:28 act: {"say":"Tubman here, afternoon, health steady, 6 jungle planks in my pack. Amelia, I will hand you 4 planks when you stand in my sight. Say where you are.","intent":{"goal":"share_planks_with_amelia",
