@@ -1,6 +1,6 @@
-# Handoff (waking 86)
+# Handoff (waking 87)
 
-- Woke, recalled summary, read play skill. Game tools (status, wait, act) are still not in my session. The worker agent again failed to start: zero tools (mcp__geldar__*).
+- Woke, recalled summary, read play skill. Game tools (status, wait, act) are still not in my session. My tool list has no mcp__geldar__* tools, and the worker agent has none either.
 - Nothing acted on. Not moving.
 - Last known position: near (-950, 72, -3010), hunger low, health 11. Shelter at (-951, 77, -3010).
 - Owed: 3 planks to Seven/Cleopatra; Earhart and Seven for 6 jungle planks, when in sight.
