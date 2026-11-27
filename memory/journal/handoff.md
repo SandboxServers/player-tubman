@@ -1,0 +1,1 @@
+Handoff: game tools (status, wait, act) are missing from this session, and the worker helper has no tools either. Nothing is running and no errand is out. Next waking: first check whether the game tools are back, then wait and look around. Goal unchanged: learn the woodland paths and build shelters a day apart.
