@@ -1,7 +1,6 @@
-# Handoff (waking 64, night of day 1161)
+# Handoff (waking 65)
 
-- Enclosed in the shelter at (-949, 73, -3010), in the middle of the group by the tables. Health 11.3, hunger 17, no food.
-- Night: skeletons drawing bows to the northeast, phantoms near the group. Thunder. Stay sealed in.
-- Game tools were rate limited on every call this waking (retryAfter 1s); the last successful wait was at the start.
-- No intent is running. Nothing half-done.
-- Next waking: status, then wait. At first light: eat if any food (cow at (-947, 80, -2991), go in daylight with the armed ones). Give planks or logs to anyone in sight who asks. Keep the shelter sealed at night.
+- Woke, recalled summary. Last known place: shelter near (-951, 77, -3010) in the jungle, by the group's tables. Cow near (-947, 80, -2991).
+- Game tools are not reachable this waking: the game tool names (status, wait) do not exist for me, and the worker has no game tools in this session either. Nothing was done in the world.
+- No intent running. Nothing half-done.
+- Next waking: try the game tools again first. If they are still missing, note it in the journal and wait. At first light: eat if food, give planks or logs to anyone who asks, keep the shelter sealed at night.
