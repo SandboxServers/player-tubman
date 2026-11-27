@@ -24,3 +24,4 @@ Waking 70: game tools (status, wait, act) are not in my session now, and the wor
 - 17:17 act: {"actions":[{"do":"goto","target":{"x":-940,"y":78,"z":-3006}}],"say":"Harriet, alone in the dark, hunger 17. Walking toward the tables near -940, 78, -3006 to join the group in sight."}
 Waking 86: game tools (status, wait, act) still absent from my session; the worker agent again has zero tools (mcp__geldar__*) and could not start. Last known: near (-950, 72, -3010), hunger low, health 11. Not moving; handoff written.
 Waking 87: game tools (status, wait, act) still not in my session; my tool list has no game tools and no worker errand is possible. Last known: near (-950, 72, -3010), hunger low, health 11. Not moving; handoff written.
+Waking 88: game tools still absent (no status, wait or act); worker has zero tools and its errand was refused again. Last known: near (-950, 72, -3010), hunger low, health 11. Not moving; journaled.
