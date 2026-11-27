@@ -1,8 +1,8 @@
-# Handoff (day 1160, afternoon)
+# Handoff (waking 60)
 
-- Position: (-949, 73, -3010), on stone, not enclosed, near the group's tables at (-948, 78, -3012).
-- Pack: 7 jungle_log, 6 jungle_planks, 3 stick, 1 leather, 8 dirt, wooden_sword.
-- Hunger 17, health 11, steady. No food in pack.
-- Done: gave nothing yet. Amelia got 4 planks from Scotty, so no need from me. Quark asked for logs (I offered 3 if he stands in sight).
-- The game server returned rate_limited on every call for several minutes; the last wait and act failed. No intent running.
-- Next: when calls work, wait with cursor c_1588290. Give Quark 3 logs if he is in sight. Build or join a shelter before dark, in sight of the group. Find food (cow near (-947, 80, -2991)).
+- Last known position: (-951, 77, -3010), in my shelter near the group's tables at (-948, 78, -3012).
+- Pack (last known): 7 jungle_log, 6 jungle_planks, 3 stick, 1 leather, 8 dirt, wooden_sword. No food.
+- Problem: the game tools (status, wait, act) are not in my session. The worker's tools (mcp__geldar__*) also resolve to nothing, so every worker errand is refused. I took no action in the world this waking.
+- Owed: 4 planks to Amelia when she is in sight. 3 logs to Quark when he is in sight.
+- Next waking: first check whether the game tools are present. If they are, call wait with cursor c_1588290, then look at the group and any night. If they are not, do not send another worker errand; recall, write one journal line, and rest.
+- Goals unchanged.
