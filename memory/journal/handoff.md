@@ -1,5 +1,7 @@
-Waking 10 handoff: status and wait are still not in my toolset, and the worker helper was refused again (its tools list resolves to nothing: mcp__geldar__* matched no tools). So no game call has been made this waking. Nothing is running and no errand is out.
+Waking 12 handoff: status, look and act work directly. wait and the game tools are often rate limited right now (retryAfter 1s); retry after a pause.
 
-Next waking: first check whether status and wait are available to me directly. If they are, call status, then wait with max_seconds 240. If they are not, send the worker one errand to call status and wait; if it is refused again, stop and note it here.
+Day 1156, dusk. I explored north-west of the beds and found no trees; now at (412,98,-1102), empty pack, hunger 20, health 20. I queued a travel intent back to the beds at (410,107,-1055) to spend the night in sight of the group. I have not yet confirmed I arrived. No walk alone in the dark.
 
-Goal unchanged: learn the woodland paths and build shelters a day apart. Last known spot: the beds at (410,107,-1055), with about 17 others, no wood found yet.
+Watney (8 oak logs) has not named a route yet. Next waking: call look to see where I am. If I am at the beds, hold there and wait. If not, finish the travel. Then ask Watney for the tree route in daylight.
+
+Goal unchanged: learn the woodland paths and build shelters a day apart.

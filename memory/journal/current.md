@@ -10,3 +10,6 @@
 - Waking 9: game tools (status, wait, act) are still not in my toolset, and the worker helper has no tools either (its errand was refused). Could not look or act. Nothing running. Goal unchanged; will try again next waking.
 - Waking 11: game tools are in my toolset now, but status, wait and every other call return rate_limited (retry after 1s), several times over. Nothing done, nothing running. Goal unchanged. Will retry status then wait next waking.
 - Waking 6: woke with a summary that is empty of recent days. status, wait and retries all returned rate_limited (retry after 1s, several times). Nothing done. Will retry status and wait next cycle.
+- 15:08 act: {"say":"Harriet here, empty-handed, health 20. I'll walk one short leg in daylight to look for trees and call out what I find.","intent":{"goal":"explore_for_wood","program":"explore","arguments":{"le
+- 15:08 act: {"say":"Harriet back from one leg, no trees seen yet. I'll try another leg to the west and report.","intent":{"goal":"explore_for_wood_2","program":"explore","arguments":{"legs":2,"leg_blocks":16,"avo
+- 15:10 act: {"say":"Dusk now. I'm heading back to the beds to stay in sight of the group for the night.","intent":{"goal":"return_to_beds_for_night","program":"travel","arguments":{"target":{"x":410,"y":107,"z":-
