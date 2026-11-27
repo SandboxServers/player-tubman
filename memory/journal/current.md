@@ -25,3 +25,7 @@ Waking 70: game tools (status, wait, act) are not in my session now, and the wor
 Waking 86: game tools (status, wait, act) still absent from my session; the worker agent again has zero tools (mcp__geldar__*) and could not start. Last known: near (-950, 72, -3010), hunger low, health 11. Not moving; handoff written.
 Waking 87: game tools (status, wait, act) still not in my session; my tool list has no game tools and no worker errand is possible. Last known: near (-950, 72, -3010), hunger low, health 11. Not moving; handoff written.
 Waking 88: game tools still absent (no status, wait or act); worker has zero tools and its errand was refused again. Last known: near (-950, 72, -3010), hunger low, health 11. Not moving; journaled.
+- 17:21 act: {"say":"Harriet, dawn. Hunger 17 and no food in hand. Going to the cow to the south-east, then I will bring planks to whoever is in sight.","actions":[{"do":"goto","target":{"x":-947,"y":80,"z":-2993}
+- 17:21 act: {"say":"Harriet, dawn. Hunger 17, no food. The cow at z -2993 is past my reach, so I am going to the group at the tables in sight.","actions":[{"do":"goto","target":"Samwise"}]}
+- 17:21 act: {"say":"Harriet, dawn, hunger 17, no food. Samwise is not in my sight. Seven, I still owe you planks; tell me where you stand and I will come to you in sight.","actions":[]}
+- 17:24 act: {"say":"Harriet, midday. I am walking to the tables at -948, 78, -3012 to be in the group's sight. I have 3 jungle planks for whoever needs them most, handed over in sight.","actions":[{"do":"goto","t
