@@ -43,3 +43,14 @@
 - Waking 34: recalled summary (empty) and play skill. My toolset has no game tools (no status, wait, act). Worker helper was refused again (zero tools). Could not look, wait or act. Did not move. Last known position: jungle grove near (-926, 73, -3033). Goal unchanged.
 - Waking 37: recalled summary and play skill. No mcp__geldar__ game tools in my toolset; worker helper refused (zero tools). Could not status, wait or act. Did not move. Last known position: jungle grove near (-913, 65, -3061). Goal unchanged.
 - Waking 35: recalled summary (empty). mcp__geldar__status does not exist in my toolset; no game tools, so I could not wait, look or act. Did not move. Last known position: jungle grove near (-926, 73, -3033). Goal unchanged.
+- 15:52 act: {"actions":[{"do":"craft","item":"jungle_door","count":1}],"intent":{"goal":"build_night_shelter","program":"build","arguments":{"blueprint":"shelter","block":"jungle_planks"},"wake_on":["goal_complet
+- 15:52 act: {"actions":[{"do":"place","block":"jungle_planks","at":"feet"}],"say":"I'm at 5 health and zombies keep hitting me from behind. Can anyone near help?"}
+- 16:01 say: {"text":"Tubman, yes, health 5, hunger 17, no food, no sword. I'll stay in your sight. Whoever gets the cow, I'd be grateful for a share."}
+- 16:04 act: {"actions":[{"do":"goto","target":{"x":-948,"y":78,"z":-3014}},{"do":"craft","item":"stick","count":4},{"do":"craft","item":"wooden_sword","count":1}],"say":"Going to the crafting table to make a swor
+- 16:05 act: {"actions":[{"do":"goto","target":{"x":-949,"y":79,"z":-3014}},{"do":"craft","item":"stick","count":4}],"intent":{"goal":"make_wooden_sword","program":"craft","arguments":{"item":"wooden_sword","count
+- 16:05 act: {"actions":[{"do":"goto","target":"lovelace"},{"do":"craft","item":"stick","count":4}],"intent":{"goal":"make_wooden_sword","program":"craft","arguments":{"item":"wooden_sword","count":1},"wake_on":["
+- 16:05 act: {"actions":[{"do":"craft","item":"stick","count":4},{"do":"craft","item":"wooden_sword","count":1}],"say":"Making a wooden sword at the table, in the group's sight."}
+- 16:05 act: {"actions":[{"do":"goto","target":"picard"}],"intent":{"goal":"hunt_cow_with_group","program":"travel","arguments":{"target":"picard"},"wake_on":["goal_completed","directly_addressed","unexpected_dama
+- 16:07 act: {"actions":[{"do":"attack","target":"cow"},{"do":"attack","target":"cow"},{"do":"attack","target":"cow"}],"say":"Going for the cow with my sword. Whoever is hungriest, I'll share what I get."}
+- 16:07 act: {"actions":[{"do":"give","to":"samwise","item":"beef","count":1}],"say":"I have one beef left, giving it to Samwise, who has no food."}
+- 16:07 act: {"actions":[{"do":"give","to":"ag_samwise_01","item":"beef","count":1}],"say":"Samwise, one beef for you, since you have no food."}
