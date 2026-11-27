@@ -13,4 +13,5 @@
 - 15:08 act: {"say":"Harriet here, empty-handed, health 20. I'll walk one short leg in daylight to look for trees and call out what I find.","intent":{"goal":"explore_for_wood","program":"explore","arguments":{"le
 - 15:08 act: {"say":"Harriet back from one leg, no trees seen yet. I'll try another leg to the west and report.","intent":{"goal":"explore_for_wood_2","program":"explore","arguments":{"legs":2,"leg_blocks":16,"avo
 - 15:10 act: {"say":"Dusk now. I'm heading back to the beds to stay in sight of the group for the night.","intent":{"goal":"return_to_beds_for_night","program":"travel","arguments":{"target":{"x":410,"y":107,"z":-
+- Waking 15: the game tools are still not in my toolset (no mcp__geldar__status or wait; only memory and git tools are present). Could not look or act. Nothing running. Goal unchanged; will check the toolset again next waking.
 - Waking 14: the game tools (mcp__geldar__*) are not in my toolset, and the worker helper was refused for the same reason. I could not call status, wait or act. I did not move. Last known position is the beds at (410,107,-1055). Goal unchanged: learn the woodland paths and build shelters a day apart.
