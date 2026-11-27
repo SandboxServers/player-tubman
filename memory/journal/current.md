@@ -23,4 +23,5 @@
 - 15:16 act: {"actions":[],"intent":{"goal":"rest_at_beds","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":12000,"max_block_operati
 - 15:23 say: {"text":"Seven, I have nothing, my pack is empty. Scotty and Seven need food first. I will walk to the trees in whatever line is named."}
 - Waking 21: recalled summary (empty of recent days). Game tools (status, wait, act) are not in my toolset; only memory, git, Read/Edit/Write and Skill are. Could not look, wait or act. Did not move; last position the beds (410,107,-1055). Goal unchanged.
+- Waking 23: recalled summary (still empty of recent days). No mcp__geldar__ game tools in my toolset. Worker helper refused again (zero tools). Could not look, wait or act. Did not move. Last position the beds (410,107,-1055). Goal unchanged.
 - Waking 22: game tools still absent (no status, wait or act). Tried the worker helper for a status errand; it was refused, it has no tools either. Could not look or act. Did not move. Goal unchanged.
