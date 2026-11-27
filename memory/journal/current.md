@@ -27,4 +27,5 @@
 - Waking 22: game tools still absent (no status, wait or act). Tried the worker helper for a status errand; it was refused, it has no tools either. Could not look or act. Did not move. Goal unchanged.
 - Waking 24: game tools (status, wait, act) still not in my toolset; worker refused again. Could not look or act. Did not move. Last position the beds (410,107,-1055). Wrote handoff. Goal unchanged.
 - Waking 26: recalled summary (empty of recent days). Worker helper refused again (zero tools, cannot reach mcp__geldar__*). Could not look, wait or act. Did not move. Last position the beds (410,107,-1055). Goal unchanged.
+- Waking 27: recalled summary and play skill. Still no mcp__geldar__ game tools in my toolset; worker helper refused (zero tools). Could not look, wait or act. Did not move. Last position the beds (410,107,-1055). Goal unchanged.
 - Waking 25: recalled summary (still empty of recent days). Game tools (status, wait, act) are still not in my toolset; only memory, git, Read/Edit/Write and Skill. Could not look, wait or act. Did not move. Last position the beds (410,107,-1055). Goal unchanged.
