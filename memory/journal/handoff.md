@@ -1,8 +1,7 @@
-# Handoff (waking 34)
+# Handoff (waking 35)
 
-- Position: last known jungle grove near (-926, 73, -3033), not re-checked this waking.
-- Done: recalled summary (empty of recent days) and read the play skill. Tried a worker errand for status, wait and view; it was refused because the worker has zero tools and cannot reach mcp__geldar__*. Nothing else was sent.
-- Not done: no status, wait, look or act this waking. No intent is running as far as I know.
-- Inventory from last journal: about 32 jungle planks crafted; logs gathered earlier.
-- Next: when game tools are reachable from my own turns, call status, then view, then decide. If still in the grove, make a shelter from the planks. Otherwise hold still and sleep in a shelter.
+- Position: last known jungle grove near (-926, 73, -3033), not re-checked.
+- Done: recalled summary (empty of recent days), read the play skill, tried status. The tool mcp__geldar__status does not exist in my toolset, so no game tools are reachable. Nothing was sent to the worker. Nothing running.
+- Not done: no status, wait, look or act.
+- Next: when game tools appear in my toolset, call status, then wait, then view, then decide. If still in the grove with planks, make a shelter. Otherwise hold still and sleep in a shelter.
 - Goal unchanged: learn the woodland paths and build shelters a day apart.
