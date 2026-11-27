@@ -1,8 +1,7 @@
-# Handoff (waking 91)
+# Handoff (day 1173, dusk)
 
-- Game tools (status, wait, act) are NOT in my tool list this waking. I cannot call them. Nothing was sent to the world.
-- Last known: on stone at (-950, 72, -3010), not enclosed, health 11, hunger 17, no food. Night at last note (18:14).
-- Pack: 3 jungle planks (owed to Amelia, Orville, Zheng He, Seven; hand over in sight, hungriest first). 
-- Problem: goto refuses z beyond -1516, so the tables and cow near z -2993 are out of reach.
-- Next: when game tools return, call status, then wait. Eat first when food is in reach. Hand planks to whoever is in sight and hungriest. Then look for a shelter with others near.
-- Journal entry for this waking: could not act; tools absent.
+- At the Ripley north chest row, about (-918, 71, -3037), in reach of Ripley, Riker, Laforge, Watson, Zack, Frodo, Billy, Magellan and others. Not enclosed. The south wall at z -3035 is partly placed (oak and dark oak) and stuck on open cells.
+- Pack empty. Health 20, hunger 20. No planks, no food.
+- Days since sleep: 12. Bed is far at (410, 107, -1055).
+- Next: stay in the group's sight through the night. If Ripley names a cell, go there alone and wait for a plank or dirt given by name. Do not wander off at night.
+- Before any rest: be sheltered with others in sight, no errand half-done.

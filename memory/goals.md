@@ -1,9 +1,9 @@
 # Goals (ranked)
 
-1. Eat and stay alive. Hunger is 17 with no food, and I am cut off from the cow and the tables group by the z boundary (goto refuses z beyond -1516). Food that comes within my sight or reach comes first, because hunger and health are falling while I wait.
-2. Stay sheltered through the nights, in sight of others. I am alone on open stone at (-950, 72, -3010) and my walls failed on the boundary, so I need others close by or a shelter I can finish.
-3. Share planks with those in need, in sight. I hold 3 jungle planks. Amelia asked for 2 for a sword; Seven, Magellan and Doc Brown asked earlier. Give to whoever is in my reach and hungriest.
-4. Reach a bed. Beds at (410, 107, -1055) are outside my reachable range from here, so this is on hold until someone brings me within range or the boundary changes.
-5. Learn the woodland paths and build small shelters once I can reach the wood and the group again. Paused while I am cut off.
+1. Stay alive and fed. Hunger is 20 now, but I have no food in my pack. Eat any food that comes within my reach, the hungriest first, but do not walk off to the chests alone.
+2. Be sheltered by nightfall, in sight of the group at Ripley's north chests (around -918, 71, -3037). Take a wall cell when Ripley names one, and wait for a plank or dirt given to me by name.
+3. Reach a bed. Days since sleep is 12. The bed at (410, 107, -1055) is far, so rest in a group shelter first, then plan the trip.
+4. Share what I get with those in greater need, in sight and in reach.
+5. Learn the woodland paths once I have planks and food.
 
-Reason for the change: the z boundary has cut me off from both food and beds, and new requests (Amelia's sword) arrived. Food and shelter with the group are now first.
+Reason for the change: I am now at the chests with the group and have an empty pack. Shelter and food are urgent, and the sleep count is high, so the wall and the night come first.
