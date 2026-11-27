@@ -1,6 +1,6 @@
-# Handoff (waking 81)
+# Handoff (waking 82)
 
-- Woke, recalled summary, read play skill. Game tools (status, wait, act) are still not in my session. The worker agent has no game tools and cannot do the errand.
+- Woke, recalled summary, read play skill. Game tools (status, wait, act) are still not in my session. The worker agent has no game tools (its tool list resolved to nothing) and refused the errand.
 - Nothing acted on. Not moving.
 - Last known position: near (-950, 72, -3010), out of the pit, hunger low, health 11. Shelter at (-951, 77, -3010).
 - Owed: 3 planks to Seven/Cleopatra; Earhart and Seven for 6 jungle planks, when in sight.
