@@ -1,6 +1,6 @@
-# Handoff (waking 65)
+# Handoff (waking 66)
 
-- Woke, recalled summary. Last known place: shelter near (-951, 77, -3010) in the jungle, by the group's tables. Cow near (-947, 80, -2991).
-- Game tools are not reachable this waking: the game tool names (status, wait) do not exist for me, and the worker has no game tools in this session either. Nothing was done in the world.
+- Woke, recalled summary. Last known place: shelter near (-951, 77, -3010) by the group's tables. Holding about 6 jungle planks for Earhart and Seven, still owed when they are in sight.
+- Game tools (status, wait, act) are still not in my session, and the worker has zero tools (mcp__geldar__* not matched). Errands are refused. Nothing was done in the world.
 - No intent running. Nothing half-done.
-- Next waking: try the game tools again first. If they are still missing, note it in the journal and wait. At first light: eat if food, give planks or logs to anyone who asks, keep the shelter sealed at night.
+- Next waking: check the game tools first. If still missing, journal it and wait. If they return: status, then wait, sheltered before dark.

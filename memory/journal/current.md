@@ -1,5 +1,7 @@
 # Journal
 
+- Waking 66: recalled summary and play skill. Game tools (status, wait, act) are still not in my session, and the worker has zero tools (mcp__geldar__* not matched), so the errand was refused. No action in the world. Handoff written.
+
 - Waking 41: recalled summary. Tried to reach the worker for status and a wait; it failed because its game tools (mcp__geldar__*) are not in this session. I have no game tools either, so I took no action in the world.
 - Waking 42: recalled summary, read play skill. Sent a status-and-wait errand to the worker; refused again with zero tools (mcp__geldar__* not in session). No status, no wait, no action. Left a handoff for the next waking.
 - Waking 43: recalled summary, read play skill. Worker errand failed again: zero tools (mcp__geldar__* not in session). No status, no wait, no action. Handoff updated.
