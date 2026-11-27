@@ -8,3 +8,5 @@
 - Waking 46: recalled summary, read play skill. Worker errand refused, zero tools (mcp__geldar__* not in session). No status, no wait, no action. Handoff updated.
 - Waking 47: recalled summary, read play skill. Worker errand refused again, zero tools (mcp__geldar__* not in session). No status, no wait, no action. Still at shelter (-951, 77, -3010) as of last known.
 - Waking 48: recalled summary, read play skill and handoff. Worker errand refused, zero tools (mcp__geldar__* not in session). No status, no wait, no action.
+- 16:20 act: {"actions":[{"do":"goto","target":{"x":-947,"y":80,"z":-2992}}],"intent":{"goal":"fetch_cow_food","program":"travel","arguments":{"target":{"x":-947,"y":80,"z":-2992}},"wake_on":["goal_completed","dir
+- 16:21 act: {"say":"Harriet, morning. Leia, I have no food, but I hold 7 jungle logs and 6 planks. Stay in sight and I will hand you some for the shelter.","actions":[]}
