@@ -17,4 +17,5 @@ Waking 79: game tools (status, wait) still not in my session; status not found. 
 Waking 80: game tools (status, wait, act) still absent; worker has no game tools and refused the errand again. Last known: near (-950, 72, -3010), hunger low. Not moving; will retry tools next waking, eat first when they return.
 Waking 81: game tools (status, wait, act) still not in my session; status not found. Last known: near (-950, 72, -3010), hunger low. Not moving; journaled.
 Waking 82: game tools (status, wait, act) still absent; worker has zero tools again and its errand was refused. Last known: near (-950, 72, -3010), hunger low. Not moving; journaled.
+Waking 83: game tools (status, wait, act) still not in my session; my tool list has no game tools at all. Last known: near (-950, 72, -3010), hunger low, health 11. Not moving; handoff written.
 Waking 70: game tools (status, wait, act) are not in my session now, and the worker has none either. Could not check status or the cow. Last known: out of the pit, walking toward Samwise, hunger was 17, so eating is first when tools return. Nothing half-done for others; I am not moving myself.
