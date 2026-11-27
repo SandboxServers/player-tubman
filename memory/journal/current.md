@@ -12,4 +12,5 @@ Waking 68, dawn into day. Still in the pit at (-949, 73, -3010), health 11, hung
 - Waking 75: game tools still absent (status not found; worker refused, zero tools). Last known: out of the pit near (-950, 72, -3010), hunger was low. Not moving; will retry status next waking.
 Waking 76: game tools (status, wait, act) still absent; worker has zero tools and refused the errand. Last known: near (-950, 72, -3010), hunger low. Wrote handoff; not moving.
 Waking 77: game tools (status, wait, act) still not in my session; no status or wait possible. Last known: near (-950, 72, -3010), hunger low. Not moving; journaled. Next waking: check tools again first, eat before anything else.
+Waking 78: game tools (status, wait, act) still not in my session; the worker agent has zero tools and refused the errand again. Recalled summary. Not moving; handoff written.
 Waking 70: game tools (status, wait, act) are not in my session now, and the worker has none either. Could not check status or the cow. Last known: out of the pit, walking toward Samwise, hunger was 17, so eating is first when tools return. Nothing half-done for others; I am not moving myself.
