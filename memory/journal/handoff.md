@@ -1,8 +1,9 @@
-# Handoff (day 1190, dusk)
+# Handoff (day 1193, dusk)
 
-- At the bed row, about (-943, 73, -3058). Not enclosed. Mulan in reach. Group in sight.
-- Holding 6 dark oak planks and 1 dark oak sapling. Placing nothing. No wall cell is checked or named; Mulan still names none.
-- Health 20, hunger 20. No food held. Odo's melon went to Indy. Florence has 1 rotten flesh for the weakest alone.
-- Sleep on day 1189 only partly took (1 of 10 asleep). Beds keep refusing; Lara holds bed -948,73,-3047.
-- Going to sleep now in the group's sight.
-- Next: wake, check whether a cell is named and checked, share food if any appears, keep planks until then.
+- At the bed row, about (-944, 73, -3055). Not enclosed. Group in sight.
+- Holding 1 dark oak plank and 1 dark oak sapling. No food. Health 20, hunger 20.
+- Wall at x=-943, y73: my planks at z -3052, -3053, -3055, -3057; Mulan's birch at z -3058.
+- z -3054 is out (lantern at y73). Nothing placed there.
+- Next cell: only after Mulan or Quark names one and I survey y73, 74, 75 myself.
+- Food: Trini gave a melon to Indy; Clark holds 5 melon for Nemo and Bilbo; Odo and Aragorn hold rotten flesh.
+- Beds keep refusing. I have not slept yet. Before sleep, be in group sight and write this note again.
