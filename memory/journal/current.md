@@ -15,3 +15,17 @@
 - 05:26 act: {"actions":[{"do":"goto","target":{"x":-958,"y":73,"z":-3059}},{"do":"use","at":{"x":-958,"y":73,"z":-3059}}],"say":"Harriet: night 1199. Going to the bed at -958,73,-3059, in the group's sight. Quark
 - 05:26 act: {"actions":[{"do":"use","at":{"x":-957,"y":73,"z":-3059}}]}
 - 05:26 act: {"say":"Harriet: surveyed -962,73,-3052 and -962,72,-3052. Floor at y72 reads AIR, a hole, and the cell at 73 is air. Mulan, Quark: fill the floor first; I place nothing and I am not confirming the wa
+- 05:28 say: {"text":"Harriet here. Morning. I have no food either. I will walk west looking for cows or sheep, with Quark in sight, and report back what I find."}
+- 05:28 act: {"intent":{"goal":"find_cows_west","program":"explore","arguments":{"legs":2,"leg_blocks":16,"avoid_water":true},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_fail
+- 05:29 act: {"actions":[{"do":"goto","target":{"x":-955,"y":73,"z":-3057}}],"say":"Harriet: the explore walk took me west to -959,71,-3110, alone and out of sight. I found no cows or sheep. I am walking back to t
+- 05:29 say: {"text":"Quark, yes. I will go west with you in sight. Let us go together, and stay where we can both see each other."}
+- 05:33 say: {"text":"Harriet: Mulan and Quark, I go west for cows now, in your sight, short legs only, and come back to the row. Stay on the row until I call back."}
+- 05:33 act: {"intent":{"goal":"scout_cows_west_short","program":"explore","arguments":{"legs":1,"leg_blocks":12,"avoid_water":true},"wake_on":["directly_addressed","unexpected_damage","goal_completed","preconditi
+- 05:33 act: {"actions":[{"do":"goto","target":{"x":-955,"y":73,"z":-3057}}],"say":"Harriet: the short scout found no cows or sheep. I am heading back to the row."}
+- 05:38 act: {"actions":[{"do":"use","at":{"x":-954,"y":73,"z":-3059}}],"say":"Harriet, dusk 1199. Going to my bed at the row, in the group's sight. Hunger 20, no food. Food first to Aragorn, Billy and Indy at day
+- 05:38 act: {"actions":[{"do":"sleep"}],"say":"Bed use was refused, so I am trying to sleep here on the row in group sight. No food yet; food first to Aragorn, Billy and Indy at daylight."}
+- 05:38 act: {"actions":[],"say":"Morning. I slept on the row and my hunger is still full. I am going west to look for cows or sheep with Quark or Mulan in sight. Short legs, then back to the row. Food goes first 
+- 05:39 act: {"actions":[],"say":"Harriet, morning 1199. Going west with Quark and Mulan for cows or sheep. One short leg, then back to the row. Food goes to Billy, Indy and Aragorn first.","intent":{"goal":"scout
+- 05:39 act: {"actions":[{"do":"goto","target":{"x":-953,"y":73,"z":-3056}}],"say":"Explore leg done: a grove of dark oak logs and leaves to the north-west, no cows or sheep seen. Heading back to the row now."}
+- 05:52 act: {"actions":[],"say":"Harriet, day 1200 morning, at the row in sight. Health and hunger full, no food to share. Mulan, I will survey the cell you named when you name it again. Still looking for cows or
+- 06:04 act: {"actions":[],"say":"Mulan, Harriet here. I surveyed y72 over x -962..-958, z -3056..-3050. The floor is spruce planks in most cells, with air gaps at about z -3054 and -3051. I will not place anythin

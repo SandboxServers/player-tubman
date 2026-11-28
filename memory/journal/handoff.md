@@ -1,7 +1,8 @@
-# Handoff (night 1199)
+# Handoff (morning 1201)
 
-- At about (-958, 73, -3058), on the bed row, in group sight (Quark, Furiosa near). Not enclosed.
-- Bed use fails here: "that block is a bed" at -958,73,-3059 and -957,73,-3059. Try another bed or the sleep verb.
-- Holding 8 dark oak planks, 4 dark oak logs, 1 sapling. Health 20, hunger 20, no food.
-- Owe Mulan: survey -962,73,-3052 (air) before any placement; say so first.
-- Morning: cow search west with Quark, in sight, and tell him when I leave.
+- Holding at (-952, 73, -3049) on the bed row, in group sight (Gimli, Furiosa, Zheng He, Mulan nearby). Not enclosed.
+- Health 20, hunger 20, no food. Pack: 8 dark oak planks, 4 dark oak logs, 1 sapling.
+- Mulan has named no clean cell yet at y72-75. Place nothing until she names one and I survey it again.
+- Fogg and Quark came back from the north: no cows, the north path is blocked.
+- Food is held by others for the weakest (Beverly has bread for whoever names themselves alone). Share first to Billy, Indy, Aragorn.
+- Tools failed after cursor c_2180240 (session superseded, then POST errors). Next waking: recall summary, status, then wait.
