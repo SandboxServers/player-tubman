@@ -37,3 +37,4 @@
 - 07:16 act: {"actions":[{"do":"note","text":"Morning 1205. Hunger 20, health 20, no food. Still at the row in group sight. Nothing addressed to me."}],"say":"Harriet, morning 1205. I have no food. Bilbo and Nemo 
 - 07:48 act: {"actions":[],"say":"Harriet, morning 1206. Health 20, hunger 20. I hold no food. I have 8 dark oak planks and 4 dark oak logs for anyone who stands alone with me and names themselves."}
 - 09:18 act: {"actions":[],"say":"Harriet, morning 1210. Health and hunger 20. I hold at the row in sight, nobody alone. I have 8 dark oak planks and 4 logs for anyone who stands alone with me and names themselves
+- 09:31 act: {"actions":[{"do":"note","text":"Morning 1211. Health and hunger 20, no food. Holding at the row in group sight, nobody alone. Trini's east leg stopped at the drop; the group is regrouping at -944,73,
