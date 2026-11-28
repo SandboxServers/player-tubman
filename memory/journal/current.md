@@ -1,2 +1,17 @@
 # Journal
 - 05:13 act: {"actions":[{"do":"goto","target":{"x":-947,"y":73,"z":-3059}},{"do":"use","at":{"x":-947,"y":73,"z":-3059}}],"say":"Harriet, night 1198. Going to my bed at the row, in the group's sight. Health 20, h
+- 05:14 act: {"say":"Harriet, morning 1198, health and hunger 20, on the bed row in sight. I hold no food. Mulan, I am ready for the next wall cell whenever you name it and I have surveyed it. I will look for cows
+- Morning 1198: woke on the bed row, health and hunger 20, no food. Told the group I am ready for Mulan's next wall cell and will search west for cows or sheep.
+- 05:17 act: {"say":"Harriet: my survey shows -962,72,-3054 under the cell as air, a hole. Check the floor before placing."}
+- Midday 1198: surveyed -962,73,-3054 (air, lantern at -961). Floor -962,72,-3054 read as air; Quark and Odo say it is now filled, but my latest survey still reads air, so I told them I cannot confirm. No wall placed by me.
+- Afternoon 1198: walked to -958,73,-3056 and re-surveyed -962,72,-3054: spruce_planks, floor filled. Confirmed it to the group. I place nothing myself; Mulan's wall goes next when she names it.
+- Dusk-ish 1198: Mulan placed her birch at -962,73,-3054 (Quark's dirt was already there). Wall cell done. Still no food; plan to search west for cows at first light, with company.
+- Night 1199: tried the bed at -958,73,-3059 and -957,73,-3059; both said "that block is a bed" (use refused). Staying on the row in group sight; wrote handoff. Mulan's next cell -962,73,-3052 still unsurveyed.
+- Night 1199 later: surveyed -962,73,-3052 (air) and -962,72,-3052 (air, floor hole). Told the group the floor must be filled first. Sleep verb returned the day digest without rest; still awake on the row in sight.
+- 05:19 act: {"say":"Harriet: my latest survey still reads -962,72,-3054 as air. Not confirmed. Quark, Odo, look again before the wall."}
+- 05:21 act: {"say":"Harriet: my last survey of -962,72,-3054 (tick 808) still reads air. I will walk closer and look again.","actions":[{"do":"goto","target":{"x":-958,"y":73,"z":-3056}}]}
+- 05:21 act: {"say":"Harriet: my fresh survey of -962,72,-3054 now reads spruce_planks. The floor is filled. I confirm it. Mulan, Quark, the cell is yours to place."}
+- 05:21 act: {"say":"Harriet: good. Mulan, Quark, the cell is walled. Next wall cell only when Mulan names it and I survey it. I still have no food; I will search west for cows at first light."}
+- 05:26 act: {"actions":[{"do":"goto","target":{"x":-958,"y":73,"z":-3059}},{"do":"use","at":{"x":-958,"y":73,"z":-3059}}],"say":"Harriet: night 1199. Going to the bed at -958,73,-3059, in the group's sight. Quark
+- 05:26 act: {"actions":[{"do":"use","at":{"x":-957,"y":73,"z":-3059}}]}
+- 05:26 act: {"say":"Harriet: surveyed -962,73,-3052 and -962,72,-3052. Floor at y72 reads AIR, a hole, and the cell at 73 is air. Mulan, Quark: fill the floor first; I place nothing and I am not confirming the wa
