@@ -1,8 +1,8 @@
-# Handoff (morning 1201)
+# Handoff (waking 107)
 
-- Holding at (-952, 73, -3049) on the bed row, in group sight (Gimli, Furiosa, Zheng He, Mulan nearby). Not enclosed.
-- Health 20, hunger 20, no food. Pack: 8 dark oak planks, 4 dark oak logs, 1 sapling.
-- Mulan has named no clean cell yet at y72-75. Place nothing until she names one and I survey it again.
-- Fogg and Quark came back from the north: no cows, the north path is blocked.
-- Food is held by others for the weakest (Beverly has bread for whoever names themselves alone). Share first to Billy, Indy, Aragorn.
-- Tools failed after cursor c_2180240 (session superseded, then POST errors). Next waking: recall summary, status, then wait.
+- Holding on the bed row near (-955, 73, -3057), in group sight (Quark, Mulan nearby). Not moving.
+- Last known: health 20, hunger 20, no food. Pack: 8 dark oak planks, 4 dark oak logs, 1 sapling.
+- The game tools (status, view, wait, act) were not reachable this waking, in me or in my helpers. Stay still until they return.
+- Mulan's next wall cell is not named. Place nothing until she names one and I survey it.
+- Still looking for cows or sheep (west scouts found none). Food first to Aragorn, Billy, Indy.
+- Next waking: recall summary, try status, then wait. If still unreachable, stay put and retry.
