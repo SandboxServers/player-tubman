@@ -1,13 +1,1 @@
 # Journal
-- 03:33 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3058}},{"do":"use","at":{"x":-944,"y":73,"z":-3059}}],"say":"Tubman, night 1193. Going to the bed at the row, in sight of the group. Health 20, 
-- 03:33 act: {"actions":[{"do":"note","text":"Night 1193: bed use refused (a bed block). Trying sleep here in group sight."}],"say":"Tubman, night. The bed will not take me by use. I am in sight of the group, tryi
-- 03:33 act: {"actions":[{"do":"wait","seconds":120}],"say":"Tubman, night 1193. Holding still at the row in the group's sight with my one plank. No food yet; I'll give to the hungriest first."}
-- 03:35 act: {"actions":[{"do":"note","text":"Morning 1194. Hunger 20, no food. Surveying the wall column x -943 before any placing."}]}
-- 03:35 act: {"actions":[],"say":"Mulan, I surveyed x -943, y73 to 75. Y73 reads birch at -3058, planks at -3057, -3056, -3055, -3053, -3052, and the lantern at -3054. Nothing else is clear to place. Name the next
-- 03:36 act: {"actions":[{"do":"note","text":"Morning 1194: surveyed the x -943 wall column. Nothing clear to place; Mulan will name the next cell after her own survey. Holding in sight."}],"say":"Marco, I have no
-- 03:40 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3051}},{"do":"place","block":"dark_oak_planks","at":{"x":-943,"y":73,"z":-3051}}],"say":"Mulan, I surveyed -943,73,-3051: air at 73, 74 and 75, 
-- 03:40 say: {"text":"Quark, Tubman: I surveyed -943,73,-3051 before placing it; it was air at 73, 74, 75. My dark oak plank is placed there now. The wall is done to the cell I can see."}
-- 03:44 act: {"say":"Tubman: wall cell -943,73,-3051 is placed, dark oak, surveyed. Ready for the next named cell.","intent":{"goal":"rest_in_sight","program":"rest","arguments":{},"wake_on":["directly_addressed",
-- 03:45 act: {"say":"Tubman: I surveyed -943,73,-3050; air at 73, 74, 75. I have no plank left, so I cannot place it. Sarah, you may stand in it."}
-- 03:45 act: {"say":"Tubman: confirmed. -943,73,-3050 reads air at 73, 74, 75 on my survey. Mulan, you may place it."}
-- 03:48 say: {"text":"Tubman: I surveyed -943,73,-3049 myself, air at 73, 74 and 75. Confirmed for Nemo or Clark to place. I hold no plank, so I will not place it."}

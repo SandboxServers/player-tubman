@@ -1,8 +1,6 @@
-# Handoff (day 1194, dusk)
+# Handoff (night 1195)
 
-- At about (-944, 73, -3047), beside the bed row, in group sight. Not enclosed. Going to sleep here.
+- At (-945, 73, -3047), beside the bed row, in group sight. Not enclosed. Going to sleep here.
 - Holding 1 dark oak sapling only. No food, no plank. Health 20, hunger 20.
-- No errand running. Nothing placed by me this stretch.
-- Wall at x=-943, y73: my planks at z -3051, -3052, -3053, -3055, -3057. Mulan's birch at -3050 and -3058. z -3054 is the lantern (do not place). z -3049 and -3048 were placed by Clark/Seven and Nemo after surveys (air confirmed by Quark and me).
-- Next cell only after someone names it and I survey y73-75 myself.
-- Owe Seven planks once I have any.
+- No errand running. Nothing placed since the wall cell at -943,73,-3051 (my plank).
+- Owe Seven planks once I have any. Owe Mulan wall work; next cell only when named and surveyed by me.
