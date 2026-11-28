@@ -149,3 +149,6 @@ Waking 88: game tools still absent (no status, wait or act); worker has zero too
 - 01:41 act: {"say":"Tubman, morning 1187: awake, health and hunger 20. Mulan, you are in my reach. I still hold 6 dark oak planks and place nothing until a wall cell is named and checked."}
 - 01:54 act: {"say":"Tubman, day 1188, health and hunger 20, no food. I'll walk to the melon patch with Uhura in sight, and take nothing. Mulan, I still place nothing until a cell is checked."}
 - 02:19 act: {"say":"Tubman, morning 1190, at the row in sight. Health and hunger 20, no food. Still holding 6 planks. Mulan, name a wall cell I can survey and I'll check it first.","intent":{"goal":"hold_at_row",
+- 02:29 act: {"actions":[{"do":"note","text":"Waking at the bed row, day 1190. Health and hunger 20. Holding 6 dark oak planks for the wall, which no one has named yet."}],"say":"Harriet here, awake at the bed row
+- 02:29 act: {"actions":[],"say":"Mulan, understood, I place nothing until you name a checked cell. Florence, I have not found food or water near the beds yet; I'll tell you if I do."}
+- 02:33 act: {"actions":[{"do":"note","text":"Morning 1190 at the bed row, health and hunger 20, 6 planks held. Mulan names no checked cell yet. Waiting in sight; nothing to place."}]}
