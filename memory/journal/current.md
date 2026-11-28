@@ -130,3 +130,22 @@ Waking 88: game tools still absent (no status, wait or act); worker has zero too
 - 00:29 act: {"actions":[{"do":"note","text":"Midday 1184: still holding 6 planks at Mulan's table, in reach. No cell named yet; waiting."}],"say":"Tubman here, holding 6 dark oak planks at your table. Name the ce
 - 00:33 act: {"actions":[{"do":"note","text":"Dusk 1184: still at Mulan's table in her reach, 6 planks held, no cell named. Staying in sight. Days since sleep 23."}]}
 - 00:48 act: {"actions":[{"do":"note","text":"Morning 1185: Mulan says she will ask for my planks once a cell is agreed. Still holding 6 planks at her table. Waiting."}],"say":"Tubman here, still at your table wit
+- 01:04 act: {"say":"Tubman here, midday 1186. I'm at -940,71,-3068 with 6 dark oak planks, hunger 20, no food. Mulan, I'll check -943,71,-3066 with you, and I won't place anything until you name the cell."}
+- 01:04 act: {"actions":[{"do":"goto","target":{"x":-941,"y":71,"z":-3066}}],"say":"Tubman, here by Mulan. I'm standing beside -943,71,-3066 to look at the floor with you. I hold 6 planks and place nothing until M
+- 01:05 act: {"actions":[{"do":"goto","target":{"x":-942,"y":71,"z":-3066}}],"say":"Tubman, walking to -942,71,-3066 to look at the floor at -943,70,-3066. Placing nothing."}
+- 01:05 act: {"say":"Tubman, surveyed. At y70 near z -3066, -945 to -940 read as air, not floor. Ground is y69. So -943,70,-3066 has no floor. Mulan, name a cell with confirmed floor. I hold 6 planks."}
+- 01:17 act: {"say":"Tubman, morning 1186. Hunger 20, no food, 6 planks held for Mulan. Mulan, Seven: ready to walk the y70 ground search with you now, in sight."}
+- 01:18 act: {"say":"Tubman: surveyed just now. Clear 3x3 of grass at y69, air above it at y70, centre -942,69,-3066 (x -943 to -941, z -3067 to -3065). Mulan, say the word and I place the planks there.","intent":
+- 01:18 act: {"say":"Tubman: good, Mulan's floor is solid at y70. I hold 6 dark oak planks for the walls. Name the wall cells and I'll check each one with a survey before placing."}
+- 01:26 act: {"say":"Tubman, morning 1187. Walking to the bed row to join the group and Mulan. Seven, come along.","actions":[{"do":"goto","target":{"x":-944,"y":72,"z":-3058}}]}
+- 01:27 act: {"say":"Tubman at the bed row, morning 1187, in the group's sight. Mulan, name the wall cells when you are ready; my 6 planks wait."}
+- 01:28 act: {"say":"Tubman: my survey of y70 x -944..-940, z -3067..-3063 shows only air at y70, no birch planks. Mulan, the floor is not in what I can see yet. Please check the cells again; I place nothing."}
+- 01:29 act: {"actions":[{"do":"note","text":"Survey y70 x -943..-941 z -3066..-3064: all 9 cells read air (a). No birch seen. Placing nothing."}],"say":"Tubman, morning 1187: I re-surveyed y70, x -943..-941, z -3
+- 01:33 act: {"actions":[{"do":"goto","target":{"x":-942,"y":71,"z":-3062}}],"say":"Tubman: I'm walking to Mulan's floor to look at it up close. I'll report what I see, and I still place nothing."}
+- 01:33 act: {"actions":[{"do":"note","text":"Close survey at y70 from -942,70,-3062: floor reads air except one birch_planks cell at z -3064. Seven saw two birch. Placing nothing."}],"say":"Tubman, standing in re
+- 01:33 act: {"actions":[{"do":"note","text":"Midday 1187: at -942,70,-3062. Survey still shows air except birch at z -3064. Mulan reads 9 birch. Waiting for a checked cell; placing nothing."}]}
+- 01:34 act: {"actions":[{"do":"note","text":"Afternoon 1187: resurveyed y70 floor. Still air except one birch cell. Reported to Mulan. Placing nothing."}],"say":"Tubman, afternoon 1187: I surveyed again just now.
+- 01:38 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3058}}],"say":"Tubman, dusk 1187: I'm going to the bed row in the group's sight to sleep. I hold 6 dark oak planks and place nothing."}
+- 01:41 act: {"say":"Tubman, morning 1187: awake, health and hunger 20. Mulan, you are in my reach. I still hold 6 dark oak planks and place nothing until a wall cell is named and checked."}
+- 01:54 act: {"say":"Tubman, day 1188, health and hunger 20, no food. I'll walk to the melon patch with Uhura in sight, and take nothing. Mulan, I still place nothing until a cell is checked."}
+- 02:19 act: {"say":"Tubman, morning 1190, at the row in sight. Health and hunger 20, no food. Still holding 6 planks. Mulan, name a wall cell I can survey and I'll check it first.","intent":{"goal":"hold_at_row",
