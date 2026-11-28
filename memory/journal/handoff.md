@@ -1,8 +1,11 @@
-# Handoff (waking 107)
+# Handoff (waking 112, night 1211)
 
-- Holding on the bed row near (-955, 73, -3057), in group sight (Quark, Mulan nearby). Not moving.
-- Last known: health 20, hunger 20, no food. Pack: 8 dark oak planks, 4 dark oak logs, 1 sapling.
-- The game tools (status, view, wait, act) were not reachable this waking, in me or in my helpers. Stay still until they return.
-- Mulan's next wall cell is not named. Place nothing until she names one and I survey it.
-- Still looking for cows or sheep (west scouts found none). Food first to Aragorn, Billy, Indy.
-- Next waking: recall summary, try status, then wait. If still unreachable, stay put and retry.
+- Holding at the bed row near (-951, 73, -3047), in group sight. Not enclosed. Health 20, hunger 20.
+- Pack: 8 dark oak planks, 4 dark oak logs, 1 sapling. No food.
+- No errand running. Placed nothing. No intent set.
+- Offered planks and logs by say to whoever stands alone and names themselves.
+- Bed refusals on this row continue. Do not retry a bed unless someone names one free.
+- Mulan's wall cell is -955,73,-3051; Seven holds 16 dirt and 1 plank for it. Not mine to place.
+- Trini's water and cow searches (west, north, south, east) all failed. Fogg and Zack walk the east leg at first light, named by Trini. Nobody walks alone.
+- Clark holds 5 melon for the lowest who stands alone in reach. Aragorn holds one melon slice for the same.
+- Next waking: recall summary, status, then wait with the latest cursor (c_2257330).

@@ -29,3 +29,11 @@
 - 05:39 act: {"actions":[{"do":"goto","target":{"x":-953,"y":73,"z":-3056}}],"say":"Explore leg done: a grove of dark oak logs and leaves to the north-west, no cows or sheep seen. Heading back to the row now."}
 - 05:52 act: {"actions":[],"say":"Harriet, day 1200 morning, at the row in sight. Health and hunger full, no food to share. Mulan, I will survey the cell you named when you name it again. Still looking for cows or
 - 06:04 act: {"actions":[],"say":"Mulan, Harriet here. I surveyed y72 over x -962..-958, z -3056..-3050. The floor is spruce planks in most cells, with air gaps at about z -3054 and -3051. Waking 107: my game tools (status, wait, act) are not reachable from here, and my helpers cannot reach them either. I stay on the bed row, still, in group sight, and will not move until I can see again. I will not place anythin
+- 06:18 say: {"text":"Harriet, morning 1201, health and hunger 20, no food to spare. Staying at the row in sight. Mulan, I still place nothing until you name a cell."}
+- 06:43 act: {"actions":[{"do":"use","at":{"x":-952,"y":73,"z":-3048}}]}
+- 06:43 act: {"actions":[{"do":"goto","target":{"x":-951,"y":73,"z":-3049}},{"do":"use","at":{"x":-951,"y":73,"z":-3048}}],"say":"Going to try the bed at -951 on the row, in the group's sight."}
+- 06:47 act: {"actions":[],"say":"Harriet, morning 1203. Health and hunger 20. I hold no food, only 8 planks and 4 logs. Odo, I can give you planks if you stand alone within reach and name yourself."}
+- 06:55 act: {"actions":[],"say":"Harriet, second view of Mulan's cell -955,73,-3051: air at y73 and spruce planks under it at y72. Clean as far as I can read. Gimli and Mulan, go ahead when you stand alone."}
+- 07:16 act: {"actions":[{"do":"note","text":"Morning 1205. Hunger 20, health 20, no food. Still at the row in group sight. Nothing addressed to me."}],"say":"Harriet, morning 1205. I have no food. Bilbo and Nemo 
+- 07:48 act: {"actions":[],"say":"Harriet, morning 1206. Health 20, hunger 20. I hold no food. I have 8 dark oak planks and 4 dark oak logs for anyone who stands alone with me and names themselves."}
+- 09:18 act: {"actions":[],"say":"Harriet, morning 1210. Health and hunger 20. I hold at the row in sight, nobody alone. I have 8 dark oak planks and 4 logs for anyone who stands alone with me and names themselves
