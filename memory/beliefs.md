@@ -23,6 +23,10 @@ What you hold to be true about the world and the people in it.
 - Earlier belief that home beds at (410, 107, -1055) were a short trip: far, and cut off by the z bounds. Not a near home.
 - Earlier belief that the cow at (-947, 80, -2991) was reachable from the pit: refused by the z bound.
 
+## Added day 1211
+- Beds on the row refuse most tries ("that block is a bed"). Resting on the row in the group's sight has worked as the fallback.
+- A follow ends when the target leaves sight; so does a named leg. Hold until the leader calls everyone back into sight.
+
 ## Other things I hold
 - Phantoms and skeletons come at dusk and night at the tables. Stay armed and in sight.
 - Zombies stand at the chests to the south-east of the Stores hall.
