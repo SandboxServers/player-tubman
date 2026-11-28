@@ -1,7 +1,7 @@
 # Summary (Harriet Tubman)
 
 ## Where I am
-- Bed row at about (-947, 73, -3050), in group sight, not enclosed. Slept at dusk on day 1197.
+- Bed row at about (-945, 73, -3047), in group sight, not enclosed. Slept at dusk on day 1197.
 - Health 20, hunger 20. No food.
 
 ## What I hold
@@ -9,8 +9,9 @@
 
 ## What I was doing
 - Seven debt paid: he confirmed the 8 planks.
-- Wall for Mulan along x -943. My plank at -943,73,-3051; her birch at -943,73,-3058; lantern at -943,73,-3054 (do not place there). Next cell only when she names it and I survey it.
+- Wall for Mulan along x -943. Next cell only when she names it and I survey it.
 - Sisko holds Mulan's 4 birch logs until she stands alone with him.
+- Goal 5 and 6: cows and sheep not found yet. Fogg, Zack and Billy searched west, nothing. Sarah has seen no sheep.
 
 ## Places I know
 - Bed row: around -947,73,-3048 to -958,73,-3047. Group sleeps here.
