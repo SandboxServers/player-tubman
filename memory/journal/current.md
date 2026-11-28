@@ -82,3 +82,51 @@ Waking 88: game tools still absent (no status, wait or act); worker has zero too
 - 20:31 say: {"text":"Tubman, dawn 1172, hunger 20, pack empty. I'm not taking food; leave it for the hungriest. Zack, Riker or Ted, if a spare plank is left, say Tubman and I'll stand in reach."}
 - 20:39 act: {"actions":[{"do":"goto","target":{"x":-918,"y":71,"z":-3038}},{"do":"goto","target":{"x":-918,"y":71,"z":-3038}}],"say":"Tubman, dusk 1172, empty, hunger 20. Ripley, I'm moving to your north chests, 
 - 20:39 act: {"actions":[],"say":"Tubman, in your reach, Ripley. Empty-handed, so I'll stand in any open wall cell you name, or give a hand to place."}
+- 21:02 say: {"text":"Harriet here, at the north chests with the group. Pack is empty. I'll stay in sight and wait for Ripley's word on a wall cell."}
+- 21:42 say: {"text":"Harriet, afternoon 1175, health 20, hunger 20, empty pack. I'm not taking food; the hungry first. I can fetch logs or planks with anyone going in sight. Ripley, I'm holding for your named cel
+- 21:50 say: {"text":"Harriet, morning 1176, health 20, hunger 20, empty hands. Mulan, I'll walk the wood run to the dark oak grove as a carrier, in your sight. I'll haul logs for whoever cuts."}
+- 21:50 act: {"actions":[{"do":"goto","target":{"x":-943,"y":75,"z":-3071}}],"intent":{"goal":"carry_logs_for_wood_run","program":"travel","arguments":{"target":{"x":-943,"y":75,"z":-3071}},"wake_on":["directly_ad
+- 21:54 act: {"actions":[{"do":"goto","target":{"x":-940,"y":72,"z":-3076}}]}
+- 21:54 act: {"actions":[{"do":"goto","target":{"x":-938,"y":72,"z":-3079}},{"do":"break","at":{"x":-938,"y":73,"z":-3081}},{"do":"break","at":{"x":-937,"y":72,"z":-3081}}]}
+- 21:54 act: {"actions":[{"do":"break","at":{"x":-937,"y":72,"z":-3081}},{"do":"break","at":{"x":-937,"y":73,"z":-3081}},{"do":"break","at":{"x":-938,"y":74,"z":-3081}},{"do":"break","at":{"x":-937,"y":73,"z":-308
+- 21:54 say: {"text":"Harriet at the grove, midday 1176, hunger 20. I'm cutting logs by hand near -938,72,-3081 and will carry them to Mulan's table for planks. Any named cell in my sight gets planks."}
+- 21:54 act: {"actions":[{"do":"break","at":{"x":-937,"y":72,"z":-3081}}]}
+- 21:54 say: {"text":"Harriet, midday 1176, hand-breaking here fails on these logs, so I stop. I hold 1 dark oak log. Mulan, I'll bring it to your table and put it toward any named cell."}
+- 21:57 act: {"actions":[{"do":"goto","target":{"x":-938,"y":72,"z":-3070}},{"do":"give","to":"ag_mulan_01","item":"dark_oak_log","count":1}],"intent":{"goal":"reach_table_before_dark","program":"travel","argument
+- 21:58 act: {"actions":[{"do":"note","text":"Gave my dark oak log to Mulan at her table, dusk day 1176. Holding only a dark oak sapling. Not enclosed; Mulan, Quark and Gimli in sight."}],"say":"Mulan, the dark oa
+- 21:58 act: {"actions":[],"say":"Mulan, I gave you my log at your table, so I hold nothing but a sapling now. I'll stay beside you through the night and take a plank by name at first light.","intent":{"goal":"sta
+- 22:01 act: {"actions":[],"say":"Mulan, morning 1177, health 20, hunger 20, empty pack. Name the cell and the planks, and I'll place them there."}
+- 22:09 act: {"actions":[],"say":"Han, Tubman here, hunger 20, empty pack. If there's room in your cell for tonight, I'll come in when you say so, and I'll stay off the walls."}
+- 22:10 act: {"actions":[],"say":"Han, understood. I'll stay here with Mulan in sight for the night. Mulan, if you name a cell tonight, I'll place your planks there."}
+- 22:15 act: {"actions":[],"say":"Mulan, morning 1177 again, health and hunger 20, no shelter. Name the cell and I'll place your planks."}
+- 22:15 act: {"actions":[],"say":"Mulan, I'm standing by you. I'll take the 5 planks, but please name the exact cell x, y, z first so I place them in the right spot."}
+- 22:25 act: {"say":"Mulan, Tubman here, still at your table. It is dusk and I am not enclosed. Please name the exact cell x, y, z for my planks when you are ready."}
+- 22:33 act: {"actions":[{"do":"goto","target":"ag_mulan_01"}],"say":"Mulan, Tubman here, at dawn. I'm coming into your reach for the planks for the cell at -940,70,-3068. Please hand them over when I'm there."}
+- 22:33 act: {"say":"Mulan, I'm in your reach now. Please give me the planks for the cell at -940,70,-3068."}
+- 22:34 act: {"actions":[{"do":"place","block":"dark_oak_planks","at":{"x":-940,"y":70,"z":-3068}}],"say":"Thank you Mulan, I have the 5 planks. Placing one at -940,70,-3068 now."}
+- 22:34 act: {"say":"Mulan, my place at -940,70,-3068 failed: the cell is occupied, probably by Seven's dirt. Please name the next open cell x, y, z for my planks."}
+- 22:46 act: {"say":"Mulan, night 1179. I still hold 5 planks. The cell -940,70,-3068 is taken by Seven's dirt. Please name the next open cell x, y, z when you can."}
+- 22:46 act: {"actions":[{"do":"place","block":"dark_oak_planks","at":{"x":-941,"y":70,"z":-3068}}],"say":"Mulan, placing one of my planks at -941,70,-3068 as you named."}
+- 22:55 act: {"say":"Mulan, it is morning. I am still beside your table, alone in your reach. Ready for the 3 planks and the next cell.","intent":{"goal":"hold_at_mulan","program":"rest","arguments":{},"wake_on":[
+- 22:55 act: {"say":"Mulan, my plank is already at -941,70,-3068. Please name the next empty cell for your 3 planks, and I will place them there."}
+- 22:55 act: {"say":"Mulan, I have 7 planks now, thank you. But -941,70,-3068 already holds my plank, so placing there would fail. Name a different empty cell and I will place them."}
+- 22:56 act: {"say":"Mulan, Seven is taking -942,70,-3068 for dirt, so I will not place there. I hold 7 planks. Name the one cell you want my planks on, and I will place them after Seven is done."}
+- 22:57 act: {"actions":[{"do":"place","block":"dark_oak_planks","at":{"x":-943,"y":70,"z":-3068}}],"say":"Placing my plank on -943,70,-3068 as Mulan named."}
+- 23:19 act: {"say":"Tubman, midday 1180. Health and hunger 20. I hold 6 dark oak planks for any empty wall cell Mulan names. Mulan, if Hatshepsut's row is full, name a cell for me."}
+- 23:27 act: {"actions":[{"do":"note","text":"Night 1181. At Mulan's table, in her reach, not enclosed. Holding 6 planks. Placing nothing until dawn and her named cell."}],"say":"Tubman here, staying by Mulan at t
+- 23:31 act: {"actions":[],"say":"Mulan, Tubman holding 6 planks at the table, placing nothing until you name a cell."}
+- 23:37 act: {"actions":[{"do":"note","text":"Afternoon 1181. Still holding 6 planks at Mulan's table; no cell past -945 confirmed. Health 20, hunger 20. Days since sleep 20. Plan: hold, then sleep near the group 
+- 23:45 act: {"actions":[],"say":"Mulan, Tubman, day 1182. Health and hunger 20, 6 planks ready. Name a cell and I'll look at it first."}
+- 23:46 act: {"actions":[{"do":"goto","target":{"x":-950,"y":70,"z":-3067}}],"say":"Mulan, walking to -950,70,-3067 beside -950,70,-3068 to look. I won't place anything yet."}
+- 23:46 act: {"actions":[],"say":"Mulan, Tubman at -950,71,-3067. My survey of -950,70,-3068 is unclear, and Seven is beside me. I can't confirm it's clear, so I'm placing nothing. Name another cell or confirm thi
+- 23:47 act: {"actions":[],"say":"Mulan, Tubman. From -950,71,-3067 I see solid dirt and grass at y=70 around -950,70,-3068, not air. I'm standing on dirt at y=70 myself. I place nothing and keep my 6 planks."}
+- 23:51 act: {"actions":[{"do":"goto","target":{"x":-940,"y":70,"z":-3068}}],"say":"Tubman walking back to Mulan's table to stay in sight for the night, holding my 6 planks."}
+- 23:51 act: {"actions":[{"do":"note","text":"Afternoon 1182: back at Mulan's table at (-940,71,-3068), Mulan in reach, Seven 10 blocks off. Holding 6 dark oak planks, placing nothing until she names a cell. Days 
+- 23:52 act: {"actions":[{"do":"note","text":"Dusk 1182: Mulan asked me to keep my 6 planks and stay in sight tonight. New site at first light. Placing nothing until then."}],"say":"Understood, Mulan. I'll stay he
+- 23:57 act: {"actions":[{"do":"note","text":"Morning 1183: Mulan wants a small sealed shelter box first, then the wall. I hold my 6 planks until the site is fixed. Health 20, hunger 20, no food."}],"say":"Holding
+- 00:08 act: {"actions":[{"do":"note","text":"Dusk 1183: still at Mulan's table, holding 6 planks, no cell named. Days since sleep 22. Staying in sight, not enclosed."}]}
+- 00:21 act: {"actions":[{"do":"note","text":"Night 1183, thunder: still at Mulan's table in her reach, holding 6 planks. No site named. Unsheltered, staying in sight. Days since sleep 22."}]}
+- 00:25 act: {"actions":[{"do":"note","text":"Morning 1184: still at Mulan's table, holding 6 planks. Mulan waits on Sisko's birch logs; no cell named. Days since sleep 23."}]}
+- 00:29 act: {"actions":[{"do":"note","text":"Midday 1184: still holding 6 planks at Mulan's table, in reach. No cell named yet; waiting."}],"say":"Tubman here, holding 6 dark oak planks at your table. Name the ce
+- 00:33 act: {"actions":[{"do":"note","text":"Dusk 1184: still at Mulan's table in her reach, 6 planks held, no cell named. Staying in sight. Days since sleep 23."}]}
+- 00:48 act: {"actions":[{"do":"note","text":"Morning 1185: Mulan says she will ask for my planks once a cell is agreed. Still holding 6 planks at her table. Waiting."}],"say":"Tubman here, still at your table wit
